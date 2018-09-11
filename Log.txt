@@ -1,0 +1,2 @@
+2018/9/11
+First day in learning Haskell
